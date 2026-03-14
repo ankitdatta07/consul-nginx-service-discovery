@@ -4,4 +4,12 @@ This project demonstrates dynamic service discovery using Consul with Nginx load
 
 ## Consul Cluster Overview
 
-![Consul Cluster](screenshots/consul-cluster-overview.png)
+![Consul Members](Screenshots/consul-members.png)
+
+## Nginx Load Balancer
+
+![Nginx Config](Screenshots/nginx-config.png)
+
+## Application Nodes
+
+![Web Nodes](Screenshots/web-nodes.png)
