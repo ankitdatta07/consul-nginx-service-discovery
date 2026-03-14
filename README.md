@@ -19,6 +19,9 @@ Consul is used for:
 - Backend1 (Nginx)
 - Backend2 (Nginx)
 - Nginx Load Balancer
+- ## AWS Infrastructure
+
+![AWS Instances](Screenshots/aws-instances.png)
 
 ## Features
 
