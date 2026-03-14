@@ -1,0 +1,11 @@
+{
+  "service": {
+    "name": "nginx-web",
+    "port": 80,
+    "check": {
+      "http": "http://localhost",
+      "interval": "10s"
+    }
+  }
+}
+
