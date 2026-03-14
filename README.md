@@ -38,6 +38,10 @@ Consul is used for:
 
 ![Consul Members](Screenshots/consul-members-cli.png)
 
+## Service Discovery Verification
+
+![Service Discovery](Screenshots/service-discovery-cli.png)
+
 ## Commands Used
 
 ### Start Consul Agent
