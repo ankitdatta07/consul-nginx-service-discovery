@@ -42,6 +42,11 @@ Consul is used for:
 
 ![Service Discovery](Screenshots/service-discovery-cli.png)
 
+## Nginx Load Balancer
+
+![Load Balancer](Screenshots/nginx-loadbalancer.png)
+
+
 ## Commands Used
 
 ### Start Consul Agent
