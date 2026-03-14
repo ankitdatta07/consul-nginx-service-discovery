@@ -33,6 +33,11 @@ Consul is used for:
 ## Consul Cluster Overview
 
 ![Consul Cluster](Screenshots/consul-cluster-overview.png)
+
+## Consul Cluster Members
+
+![Consul Members](Screenshots/consul-members-cli.png)
+
 ## Commands Used
 
 ### Start Consul Agent
