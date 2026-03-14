@@ -30,7 +30,9 @@ Consul is used for:
 - Health checks
 - Reverse proxy load balancing
 - Dynamic backend discovery
+## Consul Cluster Overview
 
+![Consul Cluster](Screenshots/consul-cluster-overview.png)
 ## Commands Used
 
 ### Start Consul Agent
